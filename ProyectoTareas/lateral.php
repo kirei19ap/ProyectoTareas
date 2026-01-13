@@ -1,14 +1,15 @@
- <div class="wrapper">
+
+
+
+<div class="wrapper">
        <nav id="sidebar" class="sidebar js-sidebar">
             <div class="sidebar-content js-simplebar">
-                <a class="sidebar-brand" href="index.php">
-                    <span class="align-middle">TAREAS</span>
+                <a class="sidebar-link" href="index.php">
+                    <span class="align-middle"><strong> TAREAS</strong></span>
                 </a>
 
 <ul class="sidebar-nav">
-                    <li class="sidebar-header">
-                        Funcionalidades
-                    </li>
+                    <li class="sidebar-header"> - </li>
 
 
                     <li class="sidebar-item active">
@@ -21,3 +22,6 @@
 
             </div>
             </nav>        
+
+
+            

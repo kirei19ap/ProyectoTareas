@@ -129,7 +129,8 @@ if(!empty($_POST['registrarCasoBTN'])){
 
 
 <?php
-    require_once("../FinalTP3/pie.php");
+   require_once("../ProyectoTareas/pie.php");
+
 ?>
 
 </body>

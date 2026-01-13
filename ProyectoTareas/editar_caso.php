@@ -106,4 +106,4 @@ require_once("../ProyectoTareas/Encabezado.php");
     </div>
 </main>
 
-<?php require_once("pie.php"); ?>
+<?php require_once("../ProyectoTareas/pie.php"); ?>
